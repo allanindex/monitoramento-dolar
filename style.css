@@ -18,7 +18,7 @@ body{
     border-radius: 10px;
 }
 #dolar-value{
-    font-size: 60px;
+    font-size: 3em;
     color: #fff;
 }
 @media screen and (max-width: 768px){
