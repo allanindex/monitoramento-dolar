@@ -1,0 +1,23 @@
+body{
+    background-color: #dbead5;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+    width: 30%;
+    height: 50%;
+    background-color: #6eaa5e;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+#dolar-value{
+    font-size: 60px;
+    color: #fff;
+}
