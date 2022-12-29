@@ -21,3 +21,8 @@ body{
     font-size: 60px;
     color: #fff;
 }
+@media screen and (max-width: 768px){
+    .box{
+        width: 80%;
+    }
+}
